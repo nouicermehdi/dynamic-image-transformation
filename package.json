@@ -1,0 +1,13 @@
+{
+  "name": "dynamic-image-transformation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "On-the-fly image resizing behind CloudFront (AWS SAA graduation project)",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

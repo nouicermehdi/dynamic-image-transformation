@@ -1,0 +1,10 @@
+{
+  "name": "image-transform-function",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lambda that resizes and converts images on the fly with sharp",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
